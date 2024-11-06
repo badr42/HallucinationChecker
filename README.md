@@ -22,3 +22,11 @@ This project is an AI-based hallucination checker designed to assess the accurac
 ```bash
 git clone https://github.com/your-username/ai-hallucination-veracity-checker.git
 cd ai-hallucination-veracity-checker
+
+## Some Screenshots 
+
+![Sample Run](./runsample1.png)
+
+![Sample Run](./runsample2.png)
+
+![Sample Run](./runsample3.png)
