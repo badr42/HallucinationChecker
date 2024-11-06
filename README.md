@@ -15,14 +15,6 @@ This project is an AI-based hallucination checker designed to assess the accurac
 - **Detailed Analysis**: Outputs only the incorrect portions of the response, making it easier to identify and understand inaccuracies.
 - **API Key Security**: API keys are required to be manually entered in the script file, ensuring they're not exposed in version control.
 
-## Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ai-hallucination-veracity-checker.git
-cd ai-hallucination-veracity-checker
-
 ## Some Screenshots 
 
 ![Sample Run](./runsample1.png)
@@ -30,3 +22,12 @@ cd ai-hallucination-veracity-checker
 ![Sample Run](./runsample2.png)
 
 ![Sample Run](./runsample3.png)
+
+
+## Setup Instructions
+### 1. Get Cohere and OpenAI API keys
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/ai-hallucination-veracity-checker.git
+cd ai-hallucination-veracity-checker
